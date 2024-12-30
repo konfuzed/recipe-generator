@@ -6,6 +6,14 @@ Distributions and Recipes initiative is still in development.
 
 https://git.drupalcode.org/project/distributions_recipes
 
+## Versions
+
+Use the 2.0.x branch for Drupal 11 or higher.
+
+Use the 1.0.x branch for Drupal 10.
+
+## How to use
+
 After installing with Composer, run the command with the following:
 
 ```shell

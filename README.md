@@ -10,7 +10,11 @@ https://git.drupalcode.org/project/distributions_recipes
 
 Use the 2.0.x branch for Drupal 11 or higher.
 
-Use the 1.0.x branch for Drupal 10.
+`composer require kevinquillen/recipe-generator:^2.0`
+
+Use the 1.0.x branch for Drupal 10:
+
+`composer require kevinquillen/recipe-generator:^1.0`
 
 ## How to use
 
